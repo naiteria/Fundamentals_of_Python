@@ -1,0 +1,3 @@
+some str
+123
+someday i will be a good programmer
